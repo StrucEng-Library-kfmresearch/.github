@@ -1,11 +1,10 @@
-![image](https://user-images.githubusercontent.com/2311941/216575998-ad2a09fe-27f4-4014-92d0-aec153c958ef.png)
+<img src="https://user-images.githubusercontent.com/2311941/216575998-ad2a09fe-27f4-4014-92d0-aec153c958ef.png" width="500">
 
 The StrucEng Library is a collection of open-source tools for the analysis of engineering structures developed at ETH Zurich.
 
 https://strucenglib.ethz.ch/
 
-![image](https://user-images.githubusercontent.com/2311941/216822706-2cb8a03e-64fb-4a03-b6a9-f0333dba6c28.png)
-
+<img src="https://user-images.githubusercontent.com/2311941/216822706-2cb8a03e-64fb-4a03-b6a9-f0333dba6c28.png" width="700">
 
 Source Code Repositories:
 - Website: [strucenglib-website](https://github.com/StrucEng-Library-kfmresearch/strucenglib-website)
