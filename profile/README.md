@@ -4,6 +4,9 @@ The StrucEng Library is a collection of open-source tools for the analysis of en
 
 https://strucenglib.ethz.ch/
 
+![image](https://user-images.githubusercontent.com/2311941/216822706-2cb8a03e-64fb-4a03-b6a9-f0333dba6c28.png)
+
+
 Source Code Repositories:
 - Website: [strucenglib-website](https://github.com/StrucEng-Library-kfmresearch/strucenglib-website)
 - Rhino 3D: [strucenglib-rhino3d-plugin](https://github.com/StrucEng-Library-kfmresearch/strucenglib-rhino3d-plugin)
