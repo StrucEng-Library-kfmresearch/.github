@@ -11,3 +11,5 @@ Source Code Repositories:
 - Rhino 3D: [strucenglib-rhino3d-plugin](https://github.com/StrucEng-Library-kfmresearch/strucenglib-rhino3d-plugin)
 - Remote Computations: [strucenglib-connect](https://github.com/StrucEng-Library-kfmresearch/strucenglib-connect)
 - StrucEng Library Snippets: [strucenglib-snippets](https://github.com/StrucEng-Library-kfmresearch/strucenglib-snippets)
+- StrucEng Library Patches for Compas FEA1: [compas_fea](https://github.com/StrucEng-Library-kfmresearch/compas_fea) 
+- StrucEng Library Patches for Compas: [compas](https://github.com/StrucEng-Library-kfmresearch/compas) 
